@@ -1,5 +1,10 @@
 # Ignore secrets file
 secrets.env
+artist_count.png
+connection test.py
+recently_played.csv
+spotify_auth.py
+
 
 # Ignore Python cache files
 __pycache__/
