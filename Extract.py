@@ -24,12 +24,6 @@ SCOPE = os.getenv('scope')
 
 app = Flask(__name__)
 
-# Replace with your actual client ID and client secret
-# Replace with your actual client ID and client secret
-#CLIENT_ID = 'a68dc95e9b5b45379a7b70df4848cda6'
-#CLIENT_SECRET = '14b4ab897408428d9f328ec44c19bb47'
-#REDIRECT_URI = 'http://localhost:8888/callback'
-#SCOPE = 'user-read-recently-played'
 
 # Global variables
 access_token = None
